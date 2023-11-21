@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int maiin(){
+int main(){
 	int a,b;
 	cin>>a>>b;
 	int data [a];
